@@ -1,0 +1,28 @@
+
+h1 {
+    font-size: 60px;
+ }
+    
+
+body {
+    background-color: burlywood;
+    font-family: monospace;
+}
+
+.breakfastimg {
+    border: solid rgb(247, 151, 7);
+}
+
+.talk {
+    font-family: fantasy;
+    font-size: 23px;
+}
+
+#container {
+    text-align: center;
+}
+
+#topnav {
+
+    font-size: 20px;
+}
