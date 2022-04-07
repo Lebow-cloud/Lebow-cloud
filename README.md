@@ -1,4 +1,4 @@
-Hello my name is Daniel Milan. Actually an IronHack student
+Hello my name is Daniel Milan. I'm a Full-Stack develoer
 
 Here you have my first project. A game developed with pure js canvas. https://lebow-cloud.github.io/Project-B1/
 
